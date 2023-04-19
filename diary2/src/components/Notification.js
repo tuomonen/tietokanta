@@ -1,3 +1,5 @@
+import Note from "./Note";
+
 const Notification = ({ message }) => {
     if (message === null) {
         return null
