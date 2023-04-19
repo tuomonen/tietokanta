@@ -34,6 +34,8 @@ test2
 diary/db.json
 
 index.js
+package-lock.json
+package.json
 
 npm-debug.log*
 yarn-debug.log*
